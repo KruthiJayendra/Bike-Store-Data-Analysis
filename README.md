@@ -1,6 +1,8 @@
 # Bike-Store-Data-Analysis
+Here is the link for the tableau visualisation of the same data set.
+https://public.tableau.com/app/profile/kruthi.jayendra/viz/Bike-Store-DB/Bike-Store-DB?publish=yes
 
-This code performs data extraction, transformation, loading (ETL), and analysis on a dataset of a bike store. The dataset is first loaded from CSV files into pandas DataFrames, then transferred into a SQLite database. Various SQL queries are executed on the database to retrieve insights, and the results are visualized using matplotlib.
+The attached  code performs data extraction, transformation, loading (ETL), and analysis on a dataset of a bike store. The dataset is first loaded from CSV files into pandas DataFrames, then transferred into a SQLite database. Various SQL queries are executed on the database to retrieve insights, and the results are visualized using matplotlib.
 
 The following is the entity relationship diagram of the dataset.
 ![Bike-store-ERD](https://github.com/KruthiJayendra/Bike-Store-Data-Analysis/assets/113492040/30c1ae68-b3ad-42ea-a7ae-5a3488f7dafe)
