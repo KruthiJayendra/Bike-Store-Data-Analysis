@@ -1,14 +1,25 @@
 # Bike-Store-Data-Analysis
-Here is the link for the tableau visualisation of the same data set.
-https://public.tableau.com/app/profile/kruthi.jayendra/viz/Bike-Store-DB/Bike-Store-DB?publish=yes
+
+## OBJECTIVE 🎯
+To understand the inventory and analyse the Sales of the different branches of bike store as well as the employee performance.
+## PROBLEM STATEMENT
+The objective of this data analysis is to comprehensively understand and evaluate the inventory management, sales performance, and employee efficiency across various branches of a bike store chain. By conducting a thorough examination of inventory levels, sales data, and employee performance metrics, the analysis aims to identify key factors that influence sales outcomes, optimize inventory distribution, and enhance employee productivity. This will enable the bike store to make data-driven decisions to improve overall operational efficiency, increase sales, and enhance customer satisfaction across all branches. 
+
+## DATASET
+Available in the repository
+### ENTITY RELATIONSHIP DIAGRAM OF THE DATASET
+![Bike-store-ERD](https://github.com/KruthiJayendra/Bike-Store-Data-Analysis/assets/113492040/30c1ae68-b3ad-42ea-a7ae-5a3488f7dafe)
+
+## TECHNOLOGY
+Business Intellegence
+## TOOLS
+Python, SQL, MS Excel
+Libraries Used: numpy, pandas, sqlite3, matplotlib ,datetime
 
 The attached  code performs data extraction, transformation, loading (ETL), and analysis on a dataset of a bike store. The dataset is first loaded from CSV files into pandas DataFrames, then transferred into a SQLite database. Various SQL queries are executed on the database to retrieve insights, and the results are visualized using matplotlib.
 
-The following is the entity relationship diagram of the dataset.
-![Bike-store-ERD](https://github.com/KruthiJayendra/Bike-Store-Data-Analysis/assets/113492040/30c1ae68-b3ad-42ea-a7ae-5a3488f7dafe)
 
-Libraries Used
-numpy, pandas, sqlite3, matplotlib ,datetime
+
 
 1. Import Libraries
 The necessary libraries for data manipulation, database operations, and visualization are imported.
