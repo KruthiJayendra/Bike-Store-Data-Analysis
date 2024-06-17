@@ -97,8 +97,6 @@ From the Analysis it is observed that
 Baldwin Bikes: Expand inventory and target marketing to maintain and boost performance.
 Santa Cruz Bikes: Increase marketing efforts and gather customer feedback for improvement.
 Rowlett Bikes: Analyze market, promote products effectively, and improve customer experience.
-   
-
 ![image](https://github.com/KruthiJayendra/Bike-Store-Data-Analysis/assets/113492040/24ed9c3a-174f-46b5-b0f0-41bb2ccafaf4)
 
 
