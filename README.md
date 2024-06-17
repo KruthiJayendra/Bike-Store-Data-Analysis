@@ -77,7 +77,8 @@ SQL queries are executed to retrieve data, which is then stored in pandas DataFr
 **Data Transformation:** Converts store and category names to categorical data.
 
 **Visualization:** Bar chart showing stocks per category for each store.
-**From the Analysis it is observed that Cruisers Bicycles has the highest amount of Inventory with	1148,1137,1093 number of bikes across all 3 stores and Cyclocross Bicycles	has the lowest inventory with 97, 159, 158 number of bikes; An assumption can be made that Cyclocross Bicycles are the fastest moving an selling products out of all the categories and hence can be produced rapidly to balamce the stocks, where as production on Cruisers Bicycles maybe slowed down.**
+
+
 ![image](https://github.com/KruthiJayendra/Bike-Store-Data-Analysis/assets/113492040/6f7d7bf5-7e9c-4c9f-b574-39cc24ac36ba)
 
 
@@ -156,4 +157,28 @@ Implement promotional strategies around peak sales months to capitalize on poten
 ### The staff with Staff-ID 9 Name	Layla	Terrell	has the lowest number of orders i.e 86
 
 # Summary
-This code reads bike store data from CSV files, loads it into a SQLite database, runs queries to gather insights, and visualizes the results. It uses pandas for data manipulation, SQLite for database operations, and matplotlib for visualization.
+### This code reads bike store data from CSV files, loads it into a SQLite database, runs queries to gather insights, and visualizes the results. It uses pandas for data manipulation, SQLite for database operations, and matplotlib for visualization
+
+![image](https://github.com/KruthiJayendra/Bike-Store-Data-Analysis/assets/113492040/530040f2-ddc6-450b-a5c9-f73b2eb26871)
+1. Inventory of different categories
+   * Maintain or increase stock levels for high-demand items like Cruisers and Mountain Bikes. Consider marketing and promotional activities for low-stock items 
+     like Electric and Cyclocross Bicycles to boost sales.
+
+3. Sales in different Bike Stores based on year-month
+   ![image](https://github.com/KruthiJayendra/Bike-Store-Data-Analysis/assets/113492040/dd4e1aa0-dee7-4faa-a71c-50ece80b463f)
+
+   * Santa Cruz Bikes: Similar to Rowlett Bikes, focus on understanding the reasons behind the sales dip in June 2018 and enhance marketing efforts during such 
+    times.
+   * Baldwin : Address the drastic sales decrease in June 2018 by analyzing the cause and boosting promotional activities during low sales periods.
+   * Rowlett Bikes:Investigate the significant drop in sales during July 2017 and implement targeted marketing campaigns to stabilize sales.
+
+4. Employee Attrition
+   * The depiction below visualises the performance of all the employees throughout the years.
+   * The employee with highest number of sales is **Marcelene**, the emplyee veneta has a signifcantly close number if Sales hence employees can be granted 
+     promotions higher incentives as well has appreciation in kinf in order to motivate them.
+   * Employees with lowest Sales overall is Layla SIPs, PIPs can be implemented in order make them perform more effeciently.
+   ![image](https://github.com/KruthiJayendra/Bike-Store-Data-Analysis/assets/113492040/897753e0-3b73-4763-8966-e607bfb7afb7)
+
+An attachment of the Link to the visualised dashboard is linked for further inspection.
+https://public.tableau.com/app/profile/kruthi.jayendra/viz/Bike-Store-DB/Bike-Store-DB?publish=yes
+
